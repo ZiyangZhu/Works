@@ -5,7 +5,7 @@
 #### Presentations：
 - Topological and Statistical Methods in Number Theory. [JSNU](http://www.jsnu.edu.cn/), 2022-01.
 
-#### Invitation Reports：
+#### Visitors：
 - Classification of Algebraic Curves and Riemann Surfaces. J.Y. Zhao @[UIC](https://www.uic.edu/), 2021-06.
 
 #### Publications:
