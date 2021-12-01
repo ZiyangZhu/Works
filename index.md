@@ -4,7 +4,6 @@
 ## Works
 #### Presentations：
 - [JSNU](http://www.jsnu.edu.cn/). Topological and Statistical Methods in Number Theory [PPT]. 2021-12.
-- [CNU](https://cnu.edu.cn/). The Brauer-Manin Obstruction for Sections of the Fundamental Groups. 2021-11.
 - [CNU](https://cnu.edu.cn/). From Elliptic Curves and Automorphic Forms to BSD Conjecture. 2021-06.
 
 #### Visitors：
