@@ -10,6 +10,6 @@
 - J.Y. Zhao, [UIC](https://www.uic.edu/). Classification of Algebraic Curves and Riemann Surfaces. 2021-06.
 
 #### Publications:
-1. Y. Zhuang, **Z.Y. Zhu** and X.J. Zhang. Syzygy Functors for Self-injective Algebras. _Asia Mathematika_, Volume: 3 Issue: 3, (2019) 23-33. [Representation Theory]
+1. Y. Zhuang, **Z.Y. Zhu** and X.J. Zhang. Syzygy Functors for Self-injective Algebras. _Asia Mathematika_, Volume: 3 Issue: 3, (2019) 23-33. [Homological Algebra]
 
 ### [Useful Links](https://ziyangzhu.github.io/Links/)
