@@ -3,7 +3,7 @@
 ### [Lecture Notes](https://ziyangzhu.github.io/Notes/)
 ## Works
 #### Presentations：
-- [JSNU](http://www.jsnu.edu.cn/). Topological and Statistical Methods in Number Theory [Beamer](https://github.com/ZiyangZhu/Works/files/7719512/Topological.and.Statistical.Methods.in.Number.Theory.pdf). 2021-12.
+- [JSNU](http://www.jsnu.edu.cn/). Topological and Statistical Methods in Number Theory _[Beamer](https://github.com/ZiyangZhu/Works/files/7719512/Topological.and.Statistical.Methods.in.Number.Theory.pdf)_. 2021-12.
 - [CNU](https://cnu.edu.cn/). From Elliptic Curves and Automorphic Forms to BSD Conjecture. 2021-06.
 
 #### Visitors：
