@@ -2,11 +2,11 @@
 ### [Teaching](https://ziyangzhu.github.io/Teaching/)
 ### [Lecture Notes](https://ziyangzhu.github.io/Notes/)
 ## Works
-#### Presentations：
+#### Presentations:
 - [JSNU](http://www.jsnu.edu.cn/). Topological and Statistical Methods in Number Theory [[Beamer](https://github.com/ZiyangZhu/Works/files/7720097/Topological.and.Statistical.Methods.in.Number.Theory.pdf)]. 2021-12.
 - [CNU](https://cnu.edu.cn/). From Elliptic Curves and Automorphic Forms to BSD Conjecture. 2021-06.
 
-#### Visitors：
+#### Visitors:
 - Z.Y. Liu, [SCU](https://www.scu.edu.cn/). Stability Conditions and Geometry of Fano Threefolds. 2021-12.
 - J.Y. Zhao, [UIC](https://www.uic.edu/). Classification of Algebraic Curves and Riemann Surfaces. 2021-06.
 
