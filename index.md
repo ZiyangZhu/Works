@@ -7,6 +7,7 @@
 - [CNU](https://cnu.edu.cn/). From Elliptic Curves and Automorphic Forms to BSD Conjecture. 2021-06.
 
 #### Visitors:
+- Y.W. Fan, [THU](https://www.tsinghua.edu.cn/). Endofunctors of Triangulated Categories from the Dynamical Perspective. 2022-04.
 - Z.Y. Liu, [SCU](https://www.scu.edu.cn/). Stability Conditions and Geometry of Fano Threefolds. 2021-12.
 - J.Y. Zhao, [UIC](https://www.uic.edu/). Classification of Algebraic Curves and Riemann Surfaces. 2021-06.
 
