@@ -3,7 +3,7 @@
 ### [Lecture Notes](https://ziyangzhu.github.io/Notes/)
 ## Works
 #### Presentations:
-- [PKU](https://www.pku.edu.cn/). Some Problems on Algebraic Dynamics [[Note](https://github.com/ZiyangZhu/Works/files/9199261/Alg.Dyn.pdf)]. 2022-07.
+- [PKU](https://www.pku.edu.cn/). Some Problems on Algebraic Dynamics [[Note](https://github.com/ZiyangZhu/Works/files/9201271/Algebraic.Dynamics.pdf)]. 2022-07.
 - [JSNU](http://www.jsnu.edu.cn/). Topological and Statistical Methods in Number Theory [[Beamer](https://github.com/ZiyangZhu/Works/files/8031478/Topological.and.Statistical.Methods.in.Number.Theory.pdf)]. 2022-03.
 - [CNU](https://cnu.edu.cn/). From Elliptic Curves and Automorphic Forms to BSD Conjecture. 2021-06.
 
